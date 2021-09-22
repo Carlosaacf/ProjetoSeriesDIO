@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q0XTPzbRa+QTBZ80lHtilLvKUPogMpl/DlMYX/TBDl1ym4y2poUlDoe69ZpyVmZg3CZvJ+wE0KR9V5BDZpwOyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Napoa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
