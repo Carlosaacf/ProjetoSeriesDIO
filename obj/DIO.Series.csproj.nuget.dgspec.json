@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\dio-dotnet-poo-lab-2\\DIO.Series.csproj": {}
+    "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\dio-dotnet-poo-lab-2\\DIO.Series.csproj": {
+    "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\dio-dotnet-poo-lab-2\\DIO.Series.csproj",
+        "projectPath": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\Napoa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\dio-dotnet-poo-lab-2\\obj\\",
+        "outputPath": "C:\\Users\\Napoa\\Desktop\\trab\\ProjetoDioSeries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -25,3 +25,17 @@ C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\dio-dotnet-poo-lab-2\obj\Debug\netc
 C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.dll
 C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.pdb
 C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\dio-dotnet-poo-lab-2\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Napoa\Desktop\trab\ProjetoDioSeries\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache

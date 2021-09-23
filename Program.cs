@@ -78,15 +78,19 @@ namespace DIO.Series
 			Console.Write("Digite o Título da Série: ");
 			string entradaTitulo = Console.ReadLine();
 
+			Console.Write("Digite o Idioma da Série: ");
+			string entradaIdioma = Console.ReadLine();
+
 			Console.Write("Digite o Ano de Início da Série: ");
 			int entradaAno = int.Parse(Console.ReadLine());
 
 			Console.Write("Digite a Descrição da Série: ");
 			string entradaDescricao = Console.ReadLine();
 
-			Serie atualizaSerie = new Serie(id: indiceSerie,
-										genero: (Genero)entradaGenero,
-										titulo: entradaTitulo,
+            Serie atualizaSerie = new Serie(id: indiceSerie,
+                                        genero: (Genero)entradaGenero,
+                                        titulo: entradaTitulo,
+                                        Idioma: entradaIdioma,
 										ano: entradaAno,
 										descricao: entradaDescricao);
 
@@ -127,6 +131,9 @@ namespace DIO.Series
 
 			Console.Write("Digite o Título da Série: ");
 			string entradaTitulo = Console.ReadLine();
+			
+			Console.Write("Digite o Idioma da Série: ");
+			string entradaIdioma = Console.ReadLine();
 
 			Console.Write("Digite o Ano de Início da Série: ");
 			int entradaAno = int.Parse(Console.ReadLine());
@@ -137,6 +144,7 @@ namespace DIO.Series
 			Serie novaSerie = new Serie(id: repositorio.ProximoId(),
 										genero: (Genero)entradaGenero,
 										titulo: entradaTitulo,
+										Idioma: entradaIdioma, 
 										ano: entradaAno,
 										descricao: entradaDescricao);
 
